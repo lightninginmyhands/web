@@ -1,5 +1,5 @@
 ---
-title: 'The difference between a hater and a critic.'
+title: 'For hire in the 21st century'
 date: '2019-04-27'
 ---
 As always, in the eyes of the company, the customer's struggle is viewed as fertile land of opportunity. The company's solution is that which can sustainably improve the land.
