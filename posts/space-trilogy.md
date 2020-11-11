@@ -1,5 +1,5 @@
 ---
-title: 'Completing the Lewis Trilogy - critique and praise'
+title: 'Completing the Lewis Trilogy'
 date: '2020-03-16'
 ---
 -- Spoilers in this post!
