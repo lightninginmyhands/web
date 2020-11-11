@@ -1,5 +1,5 @@
 ---
-title: 'Tel brille au second qui s'eclipse au premier'
+title: "Tel brille au second qui s'eclipse au premier"
 date: '2019-04-15'
 ---
 Or: _The same man who shines at the second level is eclipsed at the top._

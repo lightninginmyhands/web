@@ -3,7 +3,7 @@ import utilStyles from '../styles/utils.module.css'
 import styles from './layout.module.css'
 import Link from 'next/link'
 
-const name = `Jay's side of the net`
+const name = `Jay's Perspective`
 export const siteTitle = 'jaydari.us'
 
 export default function Layout({ children, home }) {
