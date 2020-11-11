@@ -1,5 +1,5 @@
 ---
-title: 'The difference between a hater and a critic.'
+title: 'For hire in the 21st century'
 date: '2019-04-24'
 ---
 
